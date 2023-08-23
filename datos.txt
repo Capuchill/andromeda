@@ -1,0 +1,19 @@
+
+
+Manual Python: 
+
+	Temas Básicos: 1
+	Temas Intermedios: 2
+	Temas Avanzados: 1
+
+Manual Javascript: 
+
+	Temas Básicos: 1
+	Temas Intermedios: 1
+	Temas Avanzados: 1
+
+Manual Nose: 
+
+	Temas Básicos: 1
+	Temas Intermedios: 0
+	Temas Avanzados: 0

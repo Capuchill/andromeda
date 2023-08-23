@@ -1,0 +1,54 @@
+{
+        "manuales": {
+                "Python": {
+                        "author": "Rut ",
+                        "paginas": "65",
+                        "temas": [
+                                {
+                                        "Titulo": "Algoritmos",
+                                        "Clasificación": 1
+                                },
+                                {
+                                        "Titulo": "Modularidad",
+                                        "Clasificación": 2
+                                },
+                                {
+                                        "Titulo": "Archivos json",
+                                        "Clasificación": 3
+                                },
+                                {
+                                        "Titulo": "Diccionarios",
+                                        "Clasificación": 2
+                                }
+                        ]
+                },
+                "Javascript": {
+                        "author": "Vermen Ayala",
+                        "paginas": "83",
+                        "temas": [
+                                {
+                                        "Titulo": "Variables",
+                                        "Clasificación": 1
+                                },
+                                {
+                                        "Titulo": "Destructuración",
+                                        "Clasificación": 2
+                                },
+                                {
+                                        "Titulo": "Bases de datos",
+                                        "Clasificación": 3
+                                }
+                        ]
+                },
+                "Nose": {
+                        "author": "rut",
+                        "paginas": 22,
+                        "temas": [
+                                {
+                                        "Titulo": "jeje",
+                                        "Clasificación": 1
+                                }
+                        ]
+                }
+        }
+}
